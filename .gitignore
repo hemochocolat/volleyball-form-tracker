@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+outputs/
+annotated_spike.mp4
+spike_metrics.csv
